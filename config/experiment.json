@@ -1,0 +1,16 @@
+{
+  "benchmark_seed": 20260803,
+  "sizes": [30, 60],
+  "difficulties": ["low", "medium", "high"],
+  "families": ["labyrinth", "double", "circular_time"],
+  "instances_per_cell": 5,
+  "algorithms": ["random", "beam", "nsga2", "moead", "dpso"],
+  "seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "evaluation_budget": 800,
+  "population_size": 40,
+  "beam_width": 40,
+  "bootstrap_resamples": 2000,
+  "confidence_level": 0.95,
+  "ablation_instances_per_cell": 2,
+  "ablation_seeds": [0, 1, 2, 3, 4]
+}

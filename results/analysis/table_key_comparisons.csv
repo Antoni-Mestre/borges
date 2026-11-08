@@ -1,0 +1,13 @@
+analysis,metric,method_a,method_b,p_holm,a12_a_better,effect_magnitude
+primary,hypervolume,beam,random,2.5590925207454608e-08,0.6040123456790123,small
+primary,hypervolume,dpso,random,2.3264817388267302e-10,0.635,small
+primary,hypervolume,moead,random,6.274934239364921e-07,0.6230864197530864,small
+primary,hypervolume,nsga2,random,2.748514889787393e-07,0.6264197530864197,small
+primary,igd_plus,beam,random,6.777051838624308e-08,0.6662345679012346,medium
+primary,igd_plus,dpso,random,6.291281662889065e-10,0.738641975308642,large
+primary,igd_plus,moead,random,2.209687574383425e-07,0.6911111111111111,medium
+primary,igd_plus,nsga2,random,1.7520060430690632e-07,0.7034567901234567,medium
+repair_ablation,hypervolume,repair,no_repair,6.319756764397932e-05,0.6705246913580247,medium
+repair_ablation,igd_plus,repair,no_repair,1.605702899271725e-05,0.7874228395061729,large
+repair_ablation,feasible_rate,repair,no_repair,1.4308100952946612e-07,1.0,large
+repair_ablation,best_coherence,repair,no_repair,7.229605507761112e-06,0.7295524691358025,large

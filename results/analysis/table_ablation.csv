@@ -1,0 +1,6 @@
+metric,direction,variant_a,variant_a_median_iqr,variant_b,variant_b_median_iqr,n_complete_instances,wilcoxon_statistic,p_holm,reject_holm,a12_a_better,effect_magnitude
+hypervolume,higher,no_repair,"0.2974 [0, 0.384]",repair,"0.3589 [0.3147, 0.3941]",36,38.0,6.319756764397932e-05,True,0.32947530864197533,medium
+igd_plus,lower,no_repair,"0.02273 [0.002797, 1.732]",repair,"0 [0, 0.006295]",36,24.0,1.605702899271725e-05,True,0.21257716049382716,large
+feasible_rate,higher,no_repair,"0.2906 [0, 0.4606]",repair,"1 [1, 1]",36,0.0,1.4308100952946612e-07,True,0.0,large
+best_coherence,higher,no_repair,"0.8864 [0, 0.9078]",repair,"0.9065 [0.889, 0.9229]",36,10.0,7.2296055077611124e-06,True,0.27044753086419754,large
+runtime_sec,lower,no_repair,"0.2954 [0.2256, 0.3242]",repair,"0.5233 [0.4894, 0.5912]",36,0.0,2.9103830456733704e-11,True,1.0,large

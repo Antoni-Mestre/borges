@@ -1,0 +1,52 @@
+{
+  "ablation_run_count": 360,
+  "artifacts": {
+    "ablation_archives": {
+      "path": "results/ablation_archives.jsonl",
+      "sha256": "d696e4f2df59a1a1b9ac44692d04206e245f9b6dccbed8d6d5208718d9133b6f"
+    },
+    "ablation_results": {
+      "path": "results/ablation_results.csv",
+      "sha256": "12aae8b61b36bf91da726b05ec92c5ae7e2e5d8390cba7f99cdc0ee356cb30d3"
+    },
+    "archives": {
+      "path": "results/archives.jsonl",
+      "sha256": "61bca76f5a7215a8da0675c2fb11459d92c63d9938e2a2206ecee2876aadcd71"
+    },
+    "benchmark": {
+      "path": "data/borgesbench_v1.json",
+      "sha256": "633d1688bdb27abf0cd51db14b7b1b62d2e4f495968aec2d0f9b7c9d16d3b368"
+    },
+    "raw_results": {
+      "path": "results/raw_results.csv",
+      "sha256": "ea54135d1dcc3b3ff2e241df92c8e34f9edd3b0bb337a20d357eee7d6f43909a"
+    },
+    "reference_fronts": {
+      "path": "results/reference_fronts.json",
+      "sha256": "a9964cb1a14da113a8fc589f59bbaa5283ac9c4d0deda43f5242f2be7522b343"
+    },
+    "validation": {
+      "path": "data/benchmark_validation.json",
+      "sha256": "87b5f8cd042bc4b9ec8aadb83ea6b33aa07a28852665d59a0730b91e4624e500"
+    }
+  },
+  "baseline_repair": false,
+  "benchmark_sha256": "633d1688bdb27abf0cd51db14b7b1b62d2e4f495968aec2d0f9b7c9d16d3b368",
+  "config_sha256": "2c1216f0ba26847d4f13f8da899ea6d20f4a81cdf785c18767863c3ea2f04178",
+  "evaluation_budget": 800,
+  "experiment": "BorgesBench primary comparison and repair ablation",
+  "finished_at_utc": "2026-08-03T13:07:00.099880+00:00",
+  "mode": "full",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "platform": "Linux-6.12.13-x86_64-with-glibc2.39",
+  "population_method_repair": true,
+  "population_size": 40,
+  "beam_width": 40,
+  "primary_instance_count": 90,
+  "primary_run_count": 4500,
+  "python": "3.12.13 (main, Mar  3 2026, 14:59:34) [Clang 21.1.4 ]",
+  "started_at_utc": "2026-08-03T13:03:26.817160+00:00",
+  "wall_time_sec": 213.28272,
+  "workers": 8
+}

@@ -1,0 +1,1502 @@
+{
+  "bb_cir_30_hi_01": [
+    {
+      "coherence": 0.9229151071,
+      "structural_novelty": 0.3798861333,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_hi_02": [
+    {
+      "coherence": 0.9101098286,
+      "structural_novelty": 0.381742,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_hi_03": [
+    {
+      "coherence": 0.8741574929,
+      "structural_novelty": 0.3784125333,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_hi_04": [
+    {
+      "coherence": 0.9060098375,
+      "structural_novelty": 0.3926167059,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_hi_05": [
+    {
+      "coherence": 0.90236857,
+      "structural_novelty": 0.4014736364,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_lo_01": [
+    {
+      "coherence": 0.8785707556,
+      "structural_novelty": 0.6783627368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.88934829,
+      "structural_novelty": 0.4444447273,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_lo_02": [
+    {
+      "coherence": 0.8649978167,
+      "structural_novelty": 0.4465813846,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_lo_03": [
+    {
+      "coherence": 0.8614195667,
+      "structural_novelty": 0.6264621053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8969981833,
+      "structural_novelty": 0.45406,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_lo_04": [
+    {
+      "coherence": 0.873809975,
+      "structural_novelty": 0.4550654118,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_lo_05": [
+    {
+      "coherence": 0.8683593187,
+      "structural_novelty": 0.4529411765,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_md_01": [
+    {
+      "coherence": 0.9072926667,
+      "structural_novelty": 0.4224110769,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_md_02": [
+    {
+      "coherence": 0.8860732,
+      "structural_novelty": 0.4734681333,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.88900028,
+      "structural_novelty": 0.4423554545,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8975819556,
+      "structural_novelty": 0.4118023158,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_md_03": [
+    {
+      "coherence": 0.8933040167,
+      "structural_novelty": 0.5151213158,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8951457917,
+      "structural_novelty": 0.4943225385,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_md_04": [
+    {
+      "coherence": 0.8931543929,
+      "structural_novelty": 0.4782326,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9289892333,
+      "structural_novelty": 0.4663366923,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_30_md_05": [
+    {
+      "coherence": 0.9048985,
+      "structural_novelty": 0.6604466316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.92575479,
+      "structural_novelty": 0.4134987273,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_hi_01": [
+    {
+      "coherence": 0.8898130833,
+      "structural_novelty": 0.4108750769,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_hi_02": [
+    {
+      "coherence": 0.883184275,
+      "structural_novelty": 0.4098067692,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_hi_03": [
+    {
+      "coherence": 0.906491975,
+      "structural_novelty": 0.4034229412,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_hi_04": [
+    {
+      "coherence": 0.91832165,
+      "structural_novelty": 0.4098067692,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_hi_05": [
+    {
+      "coherence": 0.8936171,
+      "structural_novelty": 0.4203509333,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_lo_01": [
+    {
+      "coherence": 0.92384132,
+      "structural_novelty": 0.4696970909,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_lo_02": [
+    {
+      "coherence": 0.9128364083,
+      "structural_novelty": 0.4743590769,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_lo_03": [
+    {
+      "coherence": 0.9221650188,
+      "structural_novelty": 0.4455437647,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_lo_04": [
+    {
+      "coherence": 0.91454944,
+      "structural_novelty": 0.4696970909,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_lo_05": [
+    {
+      "coherence": 0.9107954625,
+      "structural_novelty": 0.4450981176,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_md_01": [
+    {
+      "coherence": 0.8979063417,
+      "structural_novelty": 0.4201921538,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_md_02": [
+    {
+      "coherence": 0.911272075,
+      "structural_novelty": 0.4198716923,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_md_03": [
+    {
+      "coherence": 0.8996856857,
+      "structural_novelty": 0.425,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_md_04": [
+    {
+      "coherence": 0.8857214688,
+      "structural_novelty": 0.4321896471,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_cir_60_md_05": [
+    {
+      "coherence": 0.91126421,
+      "structural_novelty": 0.4204545455,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_hi_01": [
+    {
+      "coherence": 0.8686090722,
+      "structural_novelty": 0.3368421053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.89054195,
+      "structural_novelty": 0.3350877368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8907513222,
+      "structural_novelty": 0.3280702105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8930320278,
+      "structural_novelty": 0.3087719474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8934624,
+      "structural_novelty": 0.3009804118,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9015641444,
+      "structural_novelty": 0.2973684737,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9056521389,
+      "structural_novelty": 0.2956140526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9058615111,
+      "structural_novelty": 0.2885965263,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_hi_02": [
+    {
+      "coherence": 0.8974392444,
+      "structural_novelty": 0.3289473684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9370705389,
+      "structural_novelty": 0.2938596842,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_hi_03": [
+    {
+      "coherence": 0.9010031944,
+      "structural_novelty": 0.3377193684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.90956355,
+      "structural_novelty": 0.3039216471,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9222082167,
+      "structural_novelty": 0.3026316842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9233407333,
+      "structural_novelty": 0.2982456842,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_hi_04": [
+    {
+      "coherence": 0.8808859111,
+      "structural_novelty": 0.3377193684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8956199667,
+      "structural_novelty": 0.3114035789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9120509556,
+      "structural_novelty": 0.2982456842,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_hi_05": [
+    {
+      "coherence": 0.9031434071,
+      "structural_novelty": 0.3488889333,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9167043056,
+      "structural_novelty": 0.3456141053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9256735833,
+      "structural_novelty": 0.3456140526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9280348438,
+      "structural_novelty": 0.3421569412,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9368013125,
+      "structural_novelty": 0.3421568824,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9423429056,
+      "structural_novelty": 0.3324562105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9501353222,
+      "structural_novelty": 0.3324561579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9542384833,
+      "structural_novelty": 0.3236843158,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9562095,
+      "structural_novelty": 0.2842106316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9604632857,
+      "structural_novelty": 0.2822222667,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_lo_01": [
+    {
+      "coherence": 0.8823390222,
+      "structural_novelty": 0.3947366842,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_lo_02": [
+    {
+      "coherence": 0.8907944389,
+      "structural_novelty": 0.5175437895,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9220569111,
+      "structural_novelty": 0.4385964737,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_lo_03": [
+    {
+      "coherence": 0.9310800667,
+      "structural_novelty": 0.4385964211,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9443368167,
+      "structural_novelty": 0.4122806316,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_lo_04": [
+    {
+      "coherence": 0.9098536667,
+      "structural_novelty": 0.4824562105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9120947944,
+      "structural_novelty": 0.4561404211,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_lo_05": [
+    {
+      "coherence": 0.8574141944,
+      "structural_novelty": 0.4385965263,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8685590222,
+      "structural_novelty": 0.4122807368,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_md_01": [
+    {
+      "coherence": 0.8880856,
+      "structural_novelty": 0.3508771053,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_md_02": [
+    {
+      "coherence": 0.88349985,
+      "structural_novelty": 0.3684211053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8890410278,
+      "structural_novelty": 0.3508772105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9000856833,
+      "structural_novelty": 0.3464912105,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_md_03": [
+    {
+      "coherence": 0.8880421944,
+      "structural_novelty": 0.3552630526,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_md_04": [
+    {
+      "coherence": 0.8907394778,
+      "structural_novelty": 0.3771931579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8936197,
+      "structural_novelty": 0.3725491765,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9004889,
+      "structural_novelty": 0.3684211579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9028180937,
+      "structural_novelty": 0.3627451765,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9085587222,
+      "structural_novelty": 0.3508772632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9086466167,
+      "structural_novelty": 0.3464912105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9142535438,
+      "structural_novelty": 0.3431374118,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9188300944,
+      "structural_novelty": 0.3421053684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9209043786,
+      "structural_novelty": 0.3333334667,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9237355722,
+      "structural_novelty": 0.3333334211,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9252216438,
+      "structural_novelty": 0.3333334118,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9286962278,
+      "structural_novelty": 0.3245614211,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_30_md_05": [
+    {
+      "coherence": 0.8992208944,
+      "structural_novelty": 0.3684211053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.90655925,
+      "structural_novelty": 0.3333333684,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_hi_01": [
+    {
+      "coherence": 0.8823216889,
+      "structural_novelty": 0.3298245263,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8972417889,
+      "structural_novelty": 0.3210526316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9189489,
+      "structural_novelty": 0.2903508947,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9204011444,
+      "structural_novelty": 0.2859649474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9355750333,
+      "structural_novelty": 0.2771930526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9402858,
+      "structural_novelty": 0.2728070526,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_hi_02": [
+    {
+      "coherence": 0.9001033778,
+      "structural_novelty": 0.3438597368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9296689167,
+      "structural_novelty": 0.3394737368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9425116167,
+      "structural_novelty": 0.304386,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_hi_03": [
+    {
+      "coherence": 0.866942725,
+      "structural_novelty": 0.2676470588,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_hi_04": [
+    {
+      "coherence": 0.8906037,
+      "structural_novelty": 0.3342106316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8914439333,
+      "structural_novelty": 0.3298246316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8986293944,
+      "structural_novelty": 0.3210527368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9070507944,
+      "structural_novelty": 0.3166667368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9226583778,
+      "structural_novelty": 0.2903509474,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_hi_05": [
+    {
+      "coherence": 0.9179957833,
+      "structural_novelty": 0.3122807368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.923000025,
+      "structural_novelty": 0.2769230769,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9333967389,
+      "structural_novelty": 0.2728070526,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_lo_01": [
+    {
+      "coherence": 0.8594418333,
+      "structural_novelty": 0.3846151538,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_lo_02": [
+    {
+      "coherence": 0.85017045,
+      "structural_novelty": 0.4090907273,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_lo_03": [
+    {
+      "coherence": 0.86136566,
+      "structural_novelty": 0.4090908182,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_lo_04": [
+    {
+      "coherence": 0.8602803062,
+      "structural_novelty": 0.3921567647,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_lo_05": [
+    {
+      "coherence": 0.8826157417,
+      "structural_novelty": 0.4230769231,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_md_01": [
+    {
+      "coherence": 0.8652481389,
+      "structural_novelty": 0.3157896316,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_md_02": [
+    {
+      "coherence": 0.8717950111,
+      "structural_novelty": 0.3114036316,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_md_03": [
+    {
+      "coherence": 0.9114419687,
+      "structural_novelty": 0.3137255882,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_md_04": [
+    {
+      "coherence": 0.9097558778,
+      "structural_novelty": 0.3157896316,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_dbl_60_md_05": [
+    {
+      "coherence": 0.8918485944,
+      "structural_novelty": 0.3026316316,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_hi_01": [
+    {
+      "coherence": 0.885030925,
+      "structural_novelty": 0.3872549412,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9066817389,
+      "structural_novelty": 0.3859649474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.916852325,
+      "structural_novelty": 0.3284314118,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9251374778,
+      "structural_novelty": 0.3175438947,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9305020722,
+      "structural_novelty": 0.3017544211,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_hi_02": [
+    {
+      "coherence": 0.8955483312,
+      "structural_novelty": 0.3431372941,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8962565333,
+      "structural_novelty": 0.3377193684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9149901833,
+      "structural_novelty": 0.3333333684,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_hi_03": [
+    {
+      "coherence": 0.9056952556,
+      "structural_novelty": 0.4052631579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9077527313,
+      "structural_novelty": 0.3794117647,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9162393389,
+      "structural_novelty": 0.3789473684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9202175556,
+      "structural_novelty": 0.3657894737,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9209706889,
+      "structural_novelty": 0.3438596842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9307616389,
+      "structural_novelty": 0.3394736842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9315305889,
+      "structural_novelty": 0.3368421053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.93941415,
+      "structural_novelty": 0.3058823529,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9402792187,
+      "structural_novelty": 0.3029411765,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9491299889,
+      "structural_novelty": 0.2973684211,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_hi_04": [
+    {
+      "coherence": 0.9156708778,
+      "structural_novelty": 0.3815789474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9273396056,
+      "structural_novelty": 0.3157894737,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_hi_05": [
+    {
+      "coherence": 0.8700972111,
+      "structural_novelty": 0.3859649474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9101905111,
+      "structural_novelty": 0.3728070526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9171261556,
+      "structural_novelty": 0.3701754737,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9266951125,
+      "structural_novelty": 0.3401961176,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9308232625,
+      "structural_novelty": 0.3137255294,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9370703944,
+      "structural_novelty": 0.304386,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9387581556,
+      "structural_novelty": 0.2956141053,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_lo_01": [
+    {
+      "coherence": 0.9183309667,
+      "structural_novelty": 0.4912281053,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_lo_02": [
+    {
+      "coherence": 0.8922234187,
+      "structural_novelty": 0.519608,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8994618278,
+      "structural_novelty": 0.5087720526,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_lo_03": [
+    {
+      "coherence": 0.8930794056,
+      "structural_novelty": 0.4649123684,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_lo_04": [
+    {
+      "coherence": 0.9074516278,
+      "structural_novelty": 0.4736842632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9201893167,
+      "structural_novelty": 0.4561404211,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9288415389,
+      "structural_novelty": 0.4385965789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9375364625,
+      "structural_novelty": 0.4313725882,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_lo_05": [
+    {
+      "coherence": 0.8979445111,
+      "structural_novelty": 0.5438596316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9058822389,
+      "structural_novelty": 0.5350876842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9177852556,
+      "structural_novelty": 0.4912280526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9239039222,
+      "structural_novelty": 0.4736842632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9271809333,
+      "structural_novelty": 0.4385964737,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_md_01": [
+    {
+      "coherence": 0.9078261722,
+      "structural_novelty": 0.4385965263,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9221994056,
+      "structural_novelty": 0.4342105789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9353736778,
+      "structural_novelty": 0.3903509474,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_md_02": [
+    {
+      "coherence": 0.9136557333,
+      "structural_novelty": 0.4342106842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9163236944,
+      "structural_novelty": 0.4298245789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9348457333,
+      "structural_novelty": 0.4122808421,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9487986063,
+      "structural_novelty": 0.387255,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_md_03": [
+    {
+      "coherence": 0.8806637375,
+      "structural_novelty": 0.3823531176,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9069889,
+      "structural_novelty": 0.3815791053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9073185944,
+      "structural_novelty": 0.3728072105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9116304778,
+      "structural_novelty": 0.3728071579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.92982015,
+      "structural_novelty": 0.3684212105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9329813889,
+      "structural_novelty": 0.3552632632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.93300125,
+      "structural_novelty": 0.3508773158,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.934792,
+      "structural_novelty": 0.3480392941,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_md_04": [
+    {
+      "coherence": 0.9032826,
+      "structural_novelty": 0.4111112,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9051806,
+      "structural_novelty": 0.4035088947,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9241333812,
+      "structural_novelty": 0.4019608235,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9288565611,
+      "structural_novelty": 0.3903509474,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_30_md_05": [
+    {
+      "coherence": 0.9118071875,
+      "structural_novelty": 0.4480393529,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9164929111,
+      "structural_novelty": 0.4447369474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9254568444,
+      "structural_novelty": 0.4315790526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9326786643,
+      "structural_novelty": 0.4244446,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9353411687,
+      "structural_novelty": 0.4235295294,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9431069444,
+      "structural_novelty": 0.4184211579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.95912488,
+      "structural_novelty": 0.3439395455,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_hi_01": [
+    {
+      "coherence": 0.8796514437,
+      "structural_novelty": 0.3637255294,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8885663833,
+      "structural_novelty": 0.3517544211,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9060776929,
+      "structural_novelty": 0.3288889333,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9128037187,
+      "structural_novelty": 0.3196078824,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9156096333,
+      "structural_novelty": 0.3166667368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9183811611,
+      "structural_novelty": 0.3122807368,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9339594583,
+      "structural_novelty": 0.2833333846,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.93771245,
+      "structural_novelty": 0.2803922353,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9401761667,
+      "structural_novelty": 0.2771930526,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9408304188,
+      "structural_novelty": 0.2754902353,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_hi_02": [
+    {
+      "coherence": 0.8742891333,
+      "structural_novelty": 0.2885965789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8882099357,
+      "structural_novelty": 0.2877778667,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8916575667,
+      "structural_novelty": 0.2842106316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8952204875,
+      "structural_novelty": 0.2833334118,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8991270778,
+      "structural_novelty": 0.2798246316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9159031857,
+      "structural_novelty": 0.2722222667,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9194520812,
+      "structural_novelty": 0.2696078824,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9206662722,
+      "structural_novelty": 0.2675438947,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9229882786,
+      "structural_novelty": 0.2666666667,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9239122187,
+      "structural_novelty": 0.2647058824,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_hi_03": [
+    {
+      "coherence": 0.9029069,
+      "structural_novelty": 0.3464912632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9033587944,
+      "structural_novelty": 0.3201754737,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_hi_04": [
+    {
+      "coherence": 0.9061387722,
+      "structural_novelty": 0.4236842105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9211240167,
+      "structural_novelty": 0.3938596842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9266535357,
+      "structural_novelty": 0.2877778667,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_hi_05": [
+    {
+      "coherence": 0.9386024625,
+      "structural_novelty": 0.3117647059,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9436702056,
+      "structural_novelty": 0.3052631579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9450438,
+      "structural_novelty": 0.3035088421,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9465073111,
+      "structural_novelty": 0.2991228421,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_lo_01": [
+    {
+      "coherence": 0.8851603111,
+      "structural_novelty": 0.5526315789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8894136944,
+      "structural_novelty": 0.5175438947,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8939056278,
+      "structural_novelty": 0.4824561579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9024485056,
+      "structural_novelty": 0.4649123158,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9075013167,
+      "structural_novelty": 0.4561404211,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9134803778,
+      "structural_novelty": 0.4561403684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9194554125,
+      "structural_novelty": 0.4215686471,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9231769062,
+      "structural_novelty": 0.4117647059,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_lo_02": [
+    {
+      "coherence": 0.8723820333,
+      "structural_novelty": 0.4561404211,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_lo_03": [
+    {
+      "coherence": 0.8875182944,
+      "structural_novelty": 0.5526315789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9156703,
+      "structural_novelty": 0.5438595789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9160289556,
+      "structural_novelty": 0.5263157895,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9223822,
+      "structural_novelty": 0.5,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9275673944,
+      "structural_novelty": 0.4736842105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.927568875,
+      "structural_novelty": 0.4313724706,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9521969778,
+      "structural_novelty": 0.4298244737,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_lo_04": [
+    {
+      "coherence": 0.8445309778,
+      "structural_novelty": 0.4736841579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8614485278,
+      "structural_novelty": 0.4473683684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9034489278,
+      "structural_novelty": 0.4385964211,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_lo_05": [
+    {
+      "coherence": 0.90015285,
+      "structural_novelty": 0.4736841579,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9031148187,
+      "structural_novelty": 0.4705881176,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9129421056,
+      "structural_novelty": 0.4298244737,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_md_01": [
+    {
+      "coherence": 0.8997299889,
+      "structural_novelty": 0.4078947895,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9125232889,
+      "structural_novelty": 0.394737,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9182105,
+      "structural_novelty": 0.3815791053,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9267319278,
+      "structural_novelty": 0.3552632632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9273365,
+      "structural_novelty": 0.3350878421,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_md_02": [
+    {
+      "coherence": 0.8752938889,
+      "structural_novelty": 0.4464913158,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8933153556,
+      "structural_novelty": 0.408772,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8981905722,
+      "structural_novelty": 0.3780702632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9005489889,
+      "structural_novelty": 0.3692983684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9044406833,
+      "structural_novelty": 0.3649123684,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9079267778,
+      "structural_novelty": 0.3368422105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9093159,
+      "structural_novelty": 0.3342106316,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_md_03": [
+    {
+      "coherence": 0.8574110167,
+      "structural_novelty": 0.4052632105,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8632886687,
+      "structural_novelty": 0.4039216471,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9019901111,
+      "structural_novelty": 0.3964913158,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9075876312,
+      "structural_novelty": 0.3941177647,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9121627375,
+      "structural_novelty": 0.3303922941,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_md_04": [
+    {
+      "coherence": 0.8915413611,
+      "structural_novelty": 0.3833334737,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9137574222,
+      "structural_novelty": 0.3701755789,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9162331188,
+      "structural_novelty": 0.364706,
+      "thematic_coverage": 1.0
+    }
+  ],
+  "bb_lab_60_md_05": [
+    {
+      "coherence": 0.8861886833,
+      "structural_novelty": 0.4780702632,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.8886024222,
+      "structural_novelty": 0.4701756316,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9162709,
+      "structural_novelty": 0.4561404737,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9222337563,
+      "structural_novelty": 0.4362746471,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9291864,
+      "structural_novelty": 0.4342106842,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9298052722,
+      "structural_novelty": 0.4219299474,
+      "thematic_coverage": 1.0
+    },
+    {
+      "coherence": 0.9448176,
+      "structural_novelty": 0.3991229474,
+      "thematic_coverage": 1.0
+    }
+  ]
+}
